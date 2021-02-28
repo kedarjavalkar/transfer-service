@@ -115,7 +115,7 @@ $ mvn clean test
 ### Curl Request
 
 ``` shell
-$curl --location --request POST 'http://localhost:8080/api/balance/transfer' \
+$ curl --location --request POST 'http://localhost:8080/api/balance/transfer' \
 --header 'Content-Type: application/json' \
 --data-raw '{
     "fromAccount": 123456,
