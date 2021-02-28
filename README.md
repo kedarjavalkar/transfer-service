@@ -99,7 +99,7 @@ Fill the login form as follows and click on Connect:
 * 	Driver class: **org.h2.Driver**
 * 	JDBC URL: **jdbc:h2:mem:natwest_transfer**
 * 	User Name: **admin**
-* 	Password:
+* 	Password: **password**
 
 <img src="documents\h2-console-login.PNG"/>
 
